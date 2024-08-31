@@ -186,6 +186,7 @@ header .sec1-link {
 .sec1-mainbox {
   margin: 10vw 10vw;
   display: flex;
+  justify-content: center;
   flex-direction: row;
 }
 .sec1-mainbox .box1 {
